@@ -1,0 +1,12 @@
+12. login srediti u smislu dodavanja usera i njihovo odredjivanje dinamicki
+13. u narudzbu uvesti vise artikala, jedinicu mjere za njih, ukupna vrijednost za stavku i za narudžbu 
+14. 13. uvesti na mobilnu aplikaciju
+17. mogucnost neodobrenog proizvoda koji se moze odobriti te dodati u listu proizvoda
+18. skeniranje bar koda za proizvod i pripadni dugmic za to
+19. umjesto sacuvaj narudzbu na mobilnoj neka bude vidi narudžbu, a onda sacuvaj
+20. dinamicko generisanje naziva narudzbe u navedenom formatu od danas
+21. ukloniti neka dugmad sa mobilne koja su viska
+22. dodavanje proizvoda u mobilnoj u smislu da se ispod forme u tabeli prikazuju ti proizvodi koji se dodaju (ovo ne treba, a nego dugme "pogledaj narudžbu" i screen koji je prikazuje)
+
+
+kod kupca_komercijalista_datum_serijskibroj

@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "App-SI",
+    "slug": "App-SI",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.berys.SIappvol3",
+      "versionCode": 1
+    },
+    "ios": {"bundleIdentifier": "com.berys.SIappvol3",
+      "supportsTablet": true,
+      "buildNumber": "1.0.0",
+      "usesIcloudStorage": true
+    }
+  }
+}
